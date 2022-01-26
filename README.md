@@ -23,8 +23,7 @@ them using mysql connector.
 <b>Let’s build</b>
 Run this .py file with internet turned on, after reading
 below steps :<br>
-https://drive.google.com/file/d/1FlTJ_uL8k-yzM3rOdMdSlk
-ZYtqJG_bY4/view?usp=sharing (size 77kb)<br>
+https://drive.google.com/file/d/1FlTJ_uL8k-yzM3rOdMdSlkZYtqJG_bY4/view?usp=sharing (size 77kb)<br>
 <br>
 Running the python file shared above will launch the
 software, if your internet is 
